@@ -1,0 +1,26 @@
+[
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "yes",
+        "url": "https://www.aicrowd.com/challenges/hackaprompt-2023"
+    },
+    {
+        "category": "Data Science and AI",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "yes",
+        "url": "https://www.aicrowd.com/challenges/fnews"
+    },
+    {
+        "category": "AI Safety",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "yes",
+        "url": "https://www.aicrowd.com/challenges/testing-net"
+    }
+]

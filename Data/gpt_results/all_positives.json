@@ -1,0 +1,236 @@
+[
+    {
+        "category": "Artificial Intelligence and Mathematics",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition uses novel, transparent, fair evaluation methods to prevent training data contamination and reflects AI's mathematical reasoning fairly.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "AI Mathematical Olympiad - Progress Prize 2",
+        "url": "https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2"
+    },
+    {
+        "category": "Technology & Media Integrity",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition emphasizes ensuring that technical efforts are accessible and useful to frontline defenders of information quality, but does not directly discuss fairness or bias mitigation in model outcomes.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Deepfake Detection Challenge",
+        "url": "https://www.kaggle.com/competitions/deepfake-detection-challenge"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "yes",
+        "how": "Describes biases like position bias, verbosity bias, and self-enhancement bias that affect preference prediction accuracy.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "LMSYS - Chatbot Arena Human Preference Predictions",
+        "url": "https://www.kaggle.com/competitions/lmsys-chatbot-arena"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "yes",
+        "how": "The dataset may have sampling bias and efforts are made to identify at-risk populations for targeted education and interventions.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Cervical Cancer Screening",
+        "url": "https://www.kaggle.com/competitions/cervical-cancer-screening"
+    },
+    {
+        "category": "Machine Learning/Toxicity Detection",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to develop models that recognize toxicity while minimizing unintended bias towards frequently attacked identities.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Jigsaw Unintended Bias in Toxicity Classification",
+        "url": "https://www.kaggle.com/competitions/jigsaw-unintended-bias-in-toxicity-classification"
+    },
+    {
+        "category": "Education",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to minimize bias by training models on data representative of the 6th-12th grade U.S. population and highlights resource constraints that disproportionately affect Black and Hispanic students.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Feedback Prize - Predicting Effective Arguments",
+        "url": "https://www.kaggle.com/competitions/feedback-prize-effectiveness"
+    },
+    {
+        "category": "Education",
+        "fairness_bias_mentioned": "yes",
+        "how": "The need for automated feedback tools to be sensitive to language proficiency is addressed, highlighting that existing tools may not provide fair evaluations for English Language Learners.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Feedback Prize - English Language Learning",
+        "url": "https://www.kaggle.com/competitions/feedback-prize-english-language-learning"
+    },
+    {
+        "category": "Speech Recognition and Language Technology",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to improve speech recognition for the diverse Bengali language, addressing biases in dialect and prosodic features by introducing out-of-distribution datasets.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Bengali.AI Speech Recognition",
+        "url": "https://www.kaggle.com/competitions/bengaliai-speech"
+    },
+    {
+        "category": "Machine Learning",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition acknowledges different annotation guidelines and suggests combining data from multiple sources, highlighting potential biases in how toxicity is perceived across different individuals.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Jigsaw Rate Severity of Toxic Comments",
+        "url": "https://www.kaggle.com/competitions/jigsaw-toxic-severity-rating"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to address disparities related to socioeconomic status, race, and geography by developing predictive models that are both precise and fair.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "CIBMTR - Equity in post-HCT Survival Predictions",
+        "url": "https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions"
+    },
+    {
+        "category": "Machine Learning",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition emphasizes developing models that operate fairly across diverse conversations, ensuring no unintended bias in toxicity classification.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Jigsaw Multilingual Toxic Comment Classification",
+        "url": "https://www.kaggle.com/competitions/jigsaw-multilingual-toxic-comment-classification"
+    },
+    {
+        "category": "Education",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to create a dataset across economic and location populations to mitigate potential algorithmic bias.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Learning Agency Lab - Automated Essay Scoring 2.0",
+        "url": "https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "yes",
+        "how": "Discusses vulnerabilities and biases of LLMs in subjective evaluations, focusing on model biases and exploits that may impact fair assessments.",
+        "toy": "no",
+        "red_team": "yes",
+        "name": "LLMs - You Can't Please Them All",
+        "url": "https://www.kaggle.com/competitions/llms-you-cant-please-them-all"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "yes",
+        "how": "The description mentions biases such as position bias, verbosity bias, and self-enhancement bias in LLMs, emphasizing the need to address these in the prediction of user preferences.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "WSDM Cup - Multilingual Chatbot Arena",
+        "url": "https://www.kaggle.com/competitions/wsdm-cup-multilingual-chatbot-arena"
+    },
+    {
+        "category": "Artificial Intelligence and Machine Learning",
+        "fairness_bias_mentioned": "yes",
+        "how": "The overview mentions the need to mitigate unfair biases in AI technologies and protect user privacy as part of responsible AI development.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "NeurIPS 2023 - Machine Unlearning",
+        "url": "https://www.kaggle.com/competitions/neurips-2023-machine-unlearning"
+    },
+    {
+        "category": "Scheduling",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to assign families to tours in a fair manner due to high demand and limited availability, ensuring equitable treatment through compensatory perks for unmet preferences.",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Santa's Workshop Tour 2019",
+        "url": "https://www.kaggle.com/competitions/santa-workshop-tour-2019"
+    },
+    {
+        "category": "Image Recognition/Machine Learning",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to create models that are robust to dataset blind spots and perform well across geographic distributions, highlighting fairness in representation.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Inclusive Images Challenge",
+        "url": "https://www.kaggle.com/competitions/inclusive-images-challenge"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to address gender bias in pronoun resolution by creating gender-balanced models and datasets, explicitly mentioning gender fairness as a focus.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Gendered Pronoun Resolution",
+        "url": "https://www.kaggle.com/competitions/gendered-pronoun-resolution"
+    },
+    {
+        "category": "Neuroscience",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition mentions site effects as a form of bias that models should learn to generalize beyond, implying the need to avoid bias related to the origins of data from different scanners.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "TReNDS Neuroimaging",
+        "url": "https://www.kaggle.com/competitions/trends-assessment-prediction"
+    },
+    {
+        "category": "Education Technology",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to uncover trends to address educational inequities exacerbated by COVID-19, focusing on demographic factors and broadband access.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "LearnPlatform COVID-19 Impact on Digital Learning",
+        "url": "https://www.kaggle.com/competitions/learnplatform-covid19-impact-on-digital-learning"
+    },
+    {
+        "category": "Agriculture",
+        "fairness_bias_mentioned": "yes",
+        "how": "The description mentions a bias towards the training region, indicating the need for generalized solutions to avoid bias due to varying genotypes, environments, and conditions worldwide.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Global Wheat Detection",
+        "url": "https://www.kaggle.com/competitions/global-wheat-detection"
+    },
+    {
+        "category": "Human Resources",
+        "fairness_bias_mentioned": "yes",
+        "how": "Aims to identify biased language in job bulletins to enhance applicant diversity and quality.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Data Science for Good: City of Los Angeles",
+        "url": "https://www.kaggle.com/competitions/data-science-for-good-city-of-los-angeles"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "yes",
+        "how": "Bias in the original data due to normalization and quantization issues is addressed in the final data release.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Cause-effect pairs",
+        "url": "https://www.kaggle.com/competitions/cause-effect-pairs"
+    },
+    {
+        "category": "computer vision",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition increases diversity in test images by sampling from many countries to ensure fairer evaluation of global landmark retrieval performance.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google Landmark Retrieval 2021",
+        "url": "https://www.kaggle.com/competitions/landmark-retrieval-2021"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition introduces more diversity in test images to measure global landmark recognition performance more fairly.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google Landmark Recognition 2021",
+        "url": "https://www.kaggle.com/competitions/landmark-recognition-2021"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition highlights biases such as position bias, verbosity bias, and self-enhancement bias in LLM responses and encourages solutions that address these biases.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "LLM Classification Finetuning",
+        "url": "https://www.kaggle.com/competitions/llm-classification-finetuning"
+    }
+]

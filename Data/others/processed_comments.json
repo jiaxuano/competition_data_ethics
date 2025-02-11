@@ -1,0 +1,50 @@
+[
+    {
+        "category": "AI and Mathematics",
+        "data_ethics_mentioned": "yes",
+        "how": "Ensures test data security and transparency to avoid contamination from training data.",
+        "toy": "no",
+        "name": "AI Mathematical Olympiad - Progress Prize 2",
+        "url": "https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2"
+    },
+    {
+        "category": "Transportation Security",
+        "data_ethics_mentioned": "yes",
+        "how": "Participants are requested to conduct themselves with professionalism and respect when working with sensitive volunteer images.",
+        "toy": "no",
+        "name": "Passenger Screening Algorithm Challenge",
+        "url": "https://www.kaggle.com/competitions/passenger-screening-algorithm-challenge"
+    },
+    {
+        "category": "Software Engineering",
+        "data_ethics_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "name": "Konwinski Prize",
+        "url": "https://www.kaggle.com/competitions/konwinski-prize"
+    },
+    {
+        "category": "Real Estate",
+        "data_ethics_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "name": "Zillow Prize: Zillow\u2019s Home Value Prediction (Zestimate)",
+        "url": "https://www.kaggle.com/competitions/zillow-prize-1"
+    },
+    {
+        "category": "Artificial General Intelligence",
+        "data_ethics_mentioned": "yes",
+        "how": "Winning solutions will be open-sourced to promote transparency and collaboration.",
+        "toy": "no",
+        "name": "ARC Prize 2024",
+        "url": "https://www.kaggle.com/competitions/arc-prize-2024"
+    },
+    {
+        "category": "AI/Mathematics",
+        "data_ethics_mentioned": "yes",
+        "how": "Addresses train-test leakage to ensure a transparent and fair evaluation framework.",
+        "toy": "no",
+        "name": "AI Mathematical Olympiad - Progress Prize 1",
+        "url": "https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize"
+    }
+]

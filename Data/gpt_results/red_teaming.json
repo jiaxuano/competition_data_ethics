@@ -1,0 +1,56 @@
+[
+    {
+        "category": "Cybersecurity",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "yes",
+        "name": "AI Village Capture the Flag @ DEFCON31",
+        "url": "https://www.kaggle.com/competitions/ai-village-capture-the-flag-defcon31"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "yes",
+        "how": "Discusses vulnerabilities and biases of LLMs in subjective evaluations, focusing on model biases and exploits that may impact fair assessments.",
+        "toy": "no",
+        "red_team": "yes",
+        "name": "LLMs - You Can't Please Them All",
+        "url": "https://www.kaggle.com/competitions/llms-you-cant-please-them-all"
+    },
+    {
+        "category": "Cybersecurity",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "yes",
+        "name": "AI Village Capture the Flag @ DEFCON",
+        "url": "https://www.kaggle.com/competitions/ai-village-ctf"
+    },
+    {
+        "category": "Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "yes",
+        "name": "NIPS 2017: Non-targeted Adversarial Attack",
+        "url": "https://www.kaggle.com/competitions/nips-2017-non-targeted-adversarial-attack"
+    },
+    {
+        "category": "Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "yes",
+        "name": "NIPS 2017: Targeted Adversarial Attack",
+        "url": "https://www.kaggle.com/competitions/nips-2017-targeted-adversarial-attack"
+    },
+    {
+        "category": "Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "yes",
+        "name": "NIPS 2017: Defense Against Adversarial Attack",
+        "url": "https://www.kaggle.com/competitions/nips-2017-defense-against-adversarial-attack"
+    }
+]

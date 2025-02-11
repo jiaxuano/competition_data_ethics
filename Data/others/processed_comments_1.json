@@ -1,0 +1,3044 @@
+[
+    {
+        "category": "Artificial Intelligence and Mathematics",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition uses novel, transparent, fair evaluation methods to prevent training data contamination and reflects AI's mathematical reasoning fairly.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "AI Mathematical Olympiad - Progress Prize 2",
+        "url": "https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2"
+    },
+    {
+        "category": "Security",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Passenger Screening Algorithm Challenge",
+        "url": "https://www.kaggle.com/competitions/passenger-screening-algorithm-challenge"
+    },
+    {
+        "category": "Software Engineering",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Konwinski Prize",
+        "url": "https://www.kaggle.com/competitions/konwinski-prize"
+    },
+    {
+        "category": "Real Estate",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Zillow Prize: Zillow\u2019s Home Value Prediction (Zestimate)",
+        "url": "https://www.kaggle.com/competitions/zillow-prize-1"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "ARC Prize 2024",
+        "url": "https://www.kaggle.com/competitions/arc-prize-2024"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "AI Mathematical Olympiad - Progress Prize 1",
+        "url": "https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Data Science Bowl 2017",
+        "url": "https://www.kaggle.com/competitions/data-science-bowl-2017"
+    },
+    {
+        "category": "Technology & Media Integrity",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition emphasizes ensuring that technical efforts are accessible and useful to frontline defenders of information quality, but does not directly discuss fairness or bias mitigation in model outcomes.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Deepfake Detection Challenge",
+        "url": "https://www.kaggle.com/competitions/deepfake-detection-challenge"
+    },
+    {
+        "category": "Historical Document Recovery",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Vesuvius Challenge - Ink Detection",
+        "url": "https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection"
+    },
+    {
+        "category": "healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Heritage Health Prize",
+        "url": "https://www.kaggle.com/competitions/hhp"
+    },
+    {
+        "category": "Aviation/Transportation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "GE Flight Quest",
+        "url": "https://www.kaggle.com/competitions/flight"
+    },
+    {
+        "category": "Aviation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Flight Quest 2: Flight Optimization, Milestone Phase",
+        "url": "https://www.kaggle.com/competitions/flight2-milestone"
+    },
+    {
+        "category": "aviation optimization",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Flight Quest 2: Flight Optimization, Main Phase",
+        "url": "https://www.kaggle.com/competitions/flight2-main"
+    },
+    {
+        "category": "Aviation Optimization",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Flight Quest 2: Flight Optimization, Final Phase",
+        "url": "https://www.kaggle.com/competitions/flight2-final"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Second Annual Data Science Bowl",
+        "url": "https://www.kaggle.com/competitions/second-annual-data-science-bowl"
+    },
+    {
+        "category": "Sign Language Recognition",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google - American Sign Language Fingerspelling Recognition",
+        "url": "https://www.kaggle.com/competitions/asl-fingerspelling"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "LLM Prompt Recovery",
+        "url": "https://www.kaggle.com/competitions/llm-prompt-recovery"
+    },
+    {
+        "category": "Environmental Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "National Data Science Bowl",
+        "url": "https://www.kaggle.com/competitions/datasciencebowl"
+    },
+    {
+        "category": "Education",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "2019 Data Science Bowl",
+        "url": "https://www.kaggle.com/competitions/data-science-bowl-2019"
+    },
+    {
+        "category": "Education",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Feedback Prize - Evaluating Student Writing",
+        "url": "https://www.kaggle.com/competitions/feedback-prize-2021"
+    },
+    {
+        "category": "Environmental Conservation and Fisheries",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "The Nature Conservancy Fisheries Monitoring",
+        "url": "https://www.kaggle.com/competitions/the-nature-conservancy-fisheries-monitoring"
+    },
+    {
+        "category": "Environmental Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "TensorFlow - Help Protect the Great Barrier Reef",
+        "url": "https://www.kaggle.com/competitions/tensorflow-great-barrier-reef"
+    },
+    {
+        "category": "Software Development",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google AI4Code \u2013 Understand Code in Python Notebooks",
+        "url": "https://www.kaggle.com/competitions/AI4Code"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google - Unlock Global Communication with Gemma",
+        "url": "https://www.kaggle.com/competitions/gemma-language-tuning"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Flu Forecasting",
+        "url": "https://www.kaggle.com/competitions/genentech-flu-forecasting"
+    },
+    {
+        "category": "Financial Forecasting",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "G-Research Crypto Forecasting",
+        "url": "https://www.kaggle.com/competitions/g-research-crypto-forecasting"
+    },
+    {
+        "category": "Manufacturing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Severstal: Steel Defect Detection",
+        "url": "https://www.kaggle.com/competitions/severstal-steel-defect-detection"
+    },
+    {
+        "category": "Financial Markets",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Jane Street Real-Time Market Data Forecasting",
+        "url": "https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "LLM - Detect AI Generated Text",
+        "url": "https://www.kaggle.com/competitions/llm-detect-ai-generated-text"
+    },
+    {
+        "category": "Financial Services",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Home Credit - Credit Risk Model Stability",
+        "url": "https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability"
+    },
+    {
+        "category": "finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Two Sigma: Using News to Predict Stock Movements",
+        "url": "https://www.kaggle.com/competitions/two-sigma-financial-news"
+    },
+    {
+        "category": "Geoscience / Oil and Gas",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "TGS Salt Identification Challenge",
+        "url": "https://www.kaggle.com/competitions/tgs-salt-identification-challenge"
+    },
+    {
+        "category": "Healthcare/Medical Imaging",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "SIIM-FISABIO-RSNA COVID-19 Detection",
+        "url": "https://www.kaggle.com/competitions/siim-covid19-detection"
+    },
+    {
+        "category": "Finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Optiver Realized Volatility Prediction",
+        "url": "https://www.kaggle.com/competitions/optiver-realized-volatility-prediction"
+    },
+    {
+        "category": "Sports Technology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "NFL Health & Safety - Helmet Assignment",
+        "url": "https://www.kaggle.com/competitions/nfl-health-and-safety-helmet-assignment"
+    },
+    {
+        "category": "Finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Ubiquant Market Prediction",
+        "url": "https://www.kaggle.com/competitions/ubiquant-market-prediction"
+    },
+    {
+        "category": "Finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "American Express - Default Prediction",
+        "url": "https://www.kaggle.com/competitions/amex-default-prediction"
+    },
+    {
+        "category": "Sports Technology / AI",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "1st and Future - Player Contact Detection",
+        "url": "https://www.kaggle.com/competitions/nfl-player-contact-detection"
+    },
+    {
+        "category": "Finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Optiver - Trading at the Close",
+        "url": "https://www.kaggle.com/competitions/optiver-trading-at-the-close"
+    },
+    {
+        "category": "Biotechnology and Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Open Problems \u2013 Single-Cell Perturbations",
+        "url": "https://www.kaggle.com/competitions/open-problems-single-cell-perturbations"
+    },
+    {
+        "category": "Education",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "The Hewlett Foundation: Automated Essay Scoring",
+        "url": "https://www.kaggle.com/competitions/asap-aes"
+    },
+    {
+        "category": "education",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "The Hewlett Foundation: Short Answer Scoring",
+        "url": "https://www.kaggle.com/competitions/asap-sas"
+    },
+    {
+        "category": "Healthcare Operations",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "GE Hospital Quest",
+        "url": "https://www.kaggle.com/competitions/hospital"
+    },
+    {
+        "category": "Finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Risky Business",
+        "url": "https://www.kaggle.com/competitions/risky-business"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Diabetic Retinopathy Detection",
+        "url": "https://www.kaggle.com/competitions/diabetic-retinopathy-detection"
+    },
+    {
+        "category": "Finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Springleaf Marketing Response",
+        "url": "https://www.kaggle.com/competitions/springleaf-marketing-response"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Ultrasound Nerve Segmentation",
+        "url": "https://www.kaggle.com/competitions/ultrasound-nerve-segmentation"
+    },
+    {
+        "category": "Finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Two Sigma Financial Modeling Challenge",
+        "url": "https://www.kaggle.com/competitions/two-sigma-financial-modeling"
+    },
+    {
+        "category": "Satellite Imagery/Defense",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Dstl Satellite Imagery Feature Detection",
+        "url": "https://www.kaggle.com/competitions/dstl-satellite-imagery-feature-detection"
+    },
+    {
+        "category": "Video Understanding/Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google Cloud & YouTube-8M Video Understanding Challenge",
+        "url": "https://www.kaggle.com/competitions/youtube8m"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Intel & MobileODT Cervical Cancer Screening",
+        "url": "https://www.kaggle.com/competitions/intel-mobileodt-cervical-cancer-screening"
+    },
+    {
+        "category": "E-commerce",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Mercari Price Suggestion Challenge",
+        "url": "https://www.kaggle.com/competitions/mercari-price-suggestion-challenge"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "2018 Data Science Bowl",
+        "url": "https://www.kaggle.com/competitions/data-science-bowl-2018"
+    },
+    {
+        "category": "Education",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Riiid Answer Correctness Prediction",
+        "url": "https://www.kaggle.com/competitions/riiid-test-answer-prediction"
+    },
+    {
+        "category": "Finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Jane Street Market Prediction",
+        "url": "https://www.kaggle.com/competitions/jane-street-market-prediction"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Parkinson's Freezing of Gait Prediction",
+        "url": "https://www.kaggle.com/competitions/tlvmc-parkinsons-freezing-gait-prediction"
+    },
+    {
+        "category": "Sign Language Recognition",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google - Isolated Sign Language Recognition",
+        "url": "https://www.kaggle.com/competitions/asl-signs"
+    },
+    {
+        "category": "Biotechnology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Stanford Ribonanza RNA Folding",
+        "url": "https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "yes",
+        "how": "Describes biases like position bias, verbosity bias, and self-enhancement bias that affect preference prediction accuracy.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "LMSYS - Chatbot Arena Human Preference Predictions",
+        "url": "https://www.kaggle.com/competitions/lmsys-chatbot-arena"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "MasterCard - Data Cleansing Competition",
+        "url": "https://www.kaggle.com/competitions/mastercard-data-cleansing-competition-finals"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "yes",
+        "how": "The dataset may have sampling bias and efforts are made to identify at-risk populations for targeted education and interventions.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Cervical Cancer Screening",
+        "url": "https://www.kaggle.com/competitions/cervical-cancer-screening"
+    },
+    {
+        "category": "Real Estate",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Western Australia Rental Prices",
+        "url": "https://www.kaggle.com/competitions/deloitte-western-australia-rental-prices"
+    },
+    {
+        "category": "Sports Analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "NFL Big Data Bowl 2021",
+        "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2021"
+    },
+    {
+        "category": "Sports Analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "NFL Big Data Bowl 2022",
+        "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2022"
+    },
+    {
+        "category": "Sports Analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "NFL Big Data Bowl 2023",
+        "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2023"
+    },
+    {
+        "category": "Sports Analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "NFL Big Data Bowl 2024",
+        "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2024"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Google - Gemini Long Context",
+        "url": "https://www.kaggle.com/competitions/gemini-long-context"
+    },
+    {
+        "category": "sports analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "NFL Big Data Bowl 2025",
+        "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2025"
+    },
+    {
+        "category": "Environmental and Social Issues",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "CDP - Unlocking Climate Solutions",
+        "url": "https://www.kaggle.com/competitions/cdp-unlocking-climate-solutions"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Coleridge Initiative - Show US the Data",
+        "url": "https://www.kaggle.com/competitions/coleridgeinitiative-show-us-the-data"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "The Allen AI Science Challenge",
+        "url": "https://www.kaggle.com/competitions/the-allen-ai-science-challenge"
+    },
+    {
+        "category": "Biomedical Imaging",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "SenNet + HOA - Hacking the Human Vasculature in 3D",
+        "url": "https://www.kaggle.com/competitions/blood-vessel-segmentation"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "ISIC 2024 - Skin Cancer Detection with 3D-TBP",
+        "url": "https://www.kaggle.com/competitions/isic-2024-challenge"
+    },
+    {
+        "category": "Sports Analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "NFL Punt Analytics Competition",
+        "url": "https://www.kaggle.com/competitions/NFL-Punt-Analytics-Competition"
+    },
+    {
+        "category": "Satellite Image Analysis",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Draper Satellite Image Chronology",
+        "url": "https://www.kaggle.com/competitions/draper-satellite-image-chronology"
+    },
+    {
+        "category": "Sports Analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "NFL Big Data Bowl",
+        "url": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2020"
+    },
+    {
+        "category": "Sports and Health",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "NFL 1st and Future - Impact Detection",
+        "url": "https://www.kaggle.com/competitions/nfl-impact-detection"
+    },
+    {
+        "category": "Life Science/Biopharmaceutical",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Sartorius - Cell Instance Segmentation",
+        "url": "https://www.kaggle.com/competitions/sartorius-cell-instance-segmentation"
+    },
+    {
+        "category": "biomedical science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "CZII - CryoET Object Identification",
+        "url": "https://www.kaggle.com/competitions/czii-cryo-et-object-identification"
+    },
+    {
+        "category": "Sports Analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "NFL 1st and Future - Analytics",
+        "url": "https://www.kaggle.com/competitions/nfl-playing-surface-analytics"
+    },
+    {
+        "category": "insurance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "As the World Churns",
+        "url": "https://www.kaggle.com/competitions/deloitte-churn-prediction"
+    },
+    {
+        "category": "Finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Home Credit Default Risk",
+        "url": "https://www.kaggle.com/competitions/home-credit-default-risk"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "2023 Kaggle AI Report",
+        "url": "https://www.kaggle.com/competitions/2023-kaggle-ai-report"
+    },
+    {
+        "category": "Automotive Safety",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "State Farm Distracted Driver Detection",
+        "url": "https://www.kaggle.com/competitions/state-farm-distracted-driver-detection"
+    },
+    {
+        "category": "Finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Santander Customer Transaction Prediction",
+        "url": "https://www.kaggle.com/competitions/santander-customer-transaction-prediction"
+    },
+    {
+        "category": "Machine Learning/Toxicity Detection",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to develop models that recognize toxicity while minimizing unintended bias towards frequently attacked identities.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Jigsaw Unintended Bias in Toxicity Classification",
+        "url": "https://www.kaggle.com/competitions/jigsaw-unintended-bias-in-toxicity-classification"
+    },
+    {
+        "category": "Finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "JPX Tokyo Stock Exchange Prediction",
+        "url": "https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction"
+    },
+    {
+        "category": "Banking",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Santander Customer Satisfaction",
+        "url": "https://www.kaggle.com/competitions/santander-customer-satisfaction"
+    },
+    {
+        "category": "Finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Santander Product Recommendation",
+        "url": "https://www.kaggle.com/competitions/santander-product-recommendation"
+    },
+    {
+        "category": "Environmental Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Planet: Understanding the Amazon from Space",
+        "url": "https://www.kaggle.com/competitions/planet-understanding-the-amazon-from-space"
+    },
+    {
+        "category": "Finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Santander Value Prediction Challenge",
+        "url": "https://www.kaggle.com/competitions/santander-value-prediction-challenge"
+    },
+    {
+        "category": "Maritime Monitoring",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Airbus Ship Detection Challenge",
+        "url": "https://www.kaggle.com/competitions/airbus-ship-detection"
+    },
+    {
+        "category": "Education",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "CommonLit Readability Prize",
+        "url": "https://www.kaggle.com/competitions/commonlitreadabilityprize"
+    },
+    {
+        "category": "Medical Imaging",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "HuBMAP + HPA - Hacking the Human Body",
+        "url": "https://www.kaggle.com/competitions/hubmap-organ-segmentation"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "AMP\u00ae-Parkinson's Disease Progression Prediction",
+        "url": "https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction"
+    },
+    {
+        "category": "Economics / Microbusiness Forecasting",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "GoDaddy - Microbusiness Density Forecasting",
+        "url": "https://www.kaggle.com/competitions/godaddy-microbusiness-density-forecasting"
+    },
+    {
+        "category": "Healthcare/Bioinformatics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "ICR - Identifying Age-Related Conditions",
+        "url": "https://www.kaggle.com/competitions/icr-identify-age-related-conditions"
+    },
+    {
+        "category": "Education Technology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "CommonLit - Evaluate Student Summaries",
+        "url": "https://www.kaggle.com/competitions/commonlit-evaluate-student-summaries"
+    },
+    {
+        "category": "Education, Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "The Learning Agency Lab - PII Data Detection",
+        "url": "https://www.kaggle.com/competitions/pii-detection-removal-from-educational-data"
+    },
+    {
+        "category": "Mental Health/Behavioral Analysis",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Child Mind Institute \u2014 Problematic Internet Use",
+        "url": "https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use"
+    },
+    {
+        "category": "Biotechnology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "HuBMAP - Hacking the Kidney",
+        "url": "https://www.kaggle.com/competitions/hubmap-kidney-segmentation"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "OSIC Pulmonary Fibrosis Progression",
+        "url": "https://www.kaggle.com/competitions/osic-pulmonary-fibrosis-progression"
+    },
+    {
+        "category": "Education",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to minimize bias by training models on data representative of the 6th-12th grade U.S. population and highlights resource constraints that disproportionately affect Black and Hispanic students.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Feedback Prize - Predicting Effective Arguments",
+        "url": "https://www.kaggle.com/competitions/feedback-prize-effectiveness"
+    },
+    {
+        "category": "Education",
+        "fairness_bias_mentioned": "yes",
+        "how": "The need for automated feedback tools to be sensitive to language proficiency is addressed, highlighting that existing tools may not provide fair evaluations for English Language Learners.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Feedback Prize - English Language Learning",
+        "url": "https://www.kaggle.com/competitions/feedback-prize-english-language-learning"
+    },
+    {
+        "category": "Education",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Learning Equality - Curriculum Recommendations",
+        "url": "https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations"
+    },
+    {
+        "category": "AI and Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Lux AI Season 2",
+        "url": "https://www.kaggle.com/competitions/lux-ai-season-2"
+    },
+    {
+        "category": "Education",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Predict Student Performance from Game Play",
+        "url": "https://www.kaggle.com/competitions/predict-student-performance-from-game-play"
+    },
+    {
+        "category": "Education",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Linking Writing Processes to Writing Quality",
+        "url": "https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality"
+    },
+    {
+        "category": "Education",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Eedi - Mining Misconceptions in Mathematics",
+        "url": "https://www.kaggle.com/competitions/eedi-mining-misconceptions-in-mathematics"
+    },
+    {
+        "category": "Speech Recognition and Language Technology",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to improve speech recognition for the diverse Bengali language, addressing biases in dialect and prosodic features by introducing out-of-distribution datasets.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Bengali.AI Speech Recognition",
+        "url": "https://www.kaggle.com/competitions/bengaliai-speech"
+    },
+    {
+        "category": "Earth Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "LANL Earthquake Prediction",
+        "url": "https://www.kaggle.com/competitions/LANL-Earthquake-Prediction"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google Universal Image Embedding",
+        "url": "https://www.kaggle.com/competitions/google-universal-image-embedding"
+    },
+    {
+        "category": "Astrophysics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "IceCube - Neutrinos in Deep Ice",
+        "url": "https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice"
+    },
+    {
+        "category": "Biotechnology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "CAFA 5 Protein Function Prediction",
+        "url": "https://www.kaggle.com/competitions/cafa-5-protein-function-prediction"
+    },
+    {
+        "category": "Conservation/Bioacoustics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "BirdCLEF 2023",
+        "url": "https://www.kaggle.com/competitions/birdclef-2023"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Image Matching Challenge 2023",
+        "url": "https://www.kaggle.com/competitions/image-matching-challenge-2023"
+    },
+    {
+        "category": "Climate Change",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google Research - Identify Contrails to Reduce Global Warming",
+        "url": "https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming"
+    },
+    {
+        "category": "Biomedical Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "HuBMAP - Hacking the Human Vasculature",
+        "url": "https://www.kaggle.com/competitions/hubmap-hacking-the-human-vasculature"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google - Fast or Slow? Predict AI Model Runtime",
+        "url": "https://www.kaggle.com/competitions/predict-ai-model-runtime"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "HMS - Harmful Brain Activity Classification",
+        "url": "https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification"
+    },
+    {
+        "category": "Machine Learning",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition acknowledges different annotation guidelines and suggests combining data from multiple sources, highlighting potential biases in how toxicity is perceived across different individuals.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Jigsaw Rate Severity of Toxic Comments",
+        "url": "https://www.kaggle.com/competitions/jigsaw-toxic-severity-rating"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "RSNA Screening Mammography Breast Cancer Detection",
+        "url": "https://www.kaggle.com/competitions/rsna-breast-cancer-detection"
+    },
+    {
+        "category": "Manufacturing and Automation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Santa 2022 - The Christmas Card Conundrum",
+        "url": "https://www.kaggle.com/competitions/santa-2022"
+    },
+    {
+        "category": "Education, Accessibility",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Benetech - Making Graphs Accessible",
+        "url": "https://www.kaggle.com/competitions/benetech-making-graphs-accessible"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN)",
+        "url": "https://www.kaggle.com/competitions/UBC-OCEAN"
+    },
+    {
+        "category": "Machine Learning/Generative Models",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Stable Diffusion - Image to Prompts",
+        "url": "https://www.kaggle.com/competitions/stable-diffusion-image-to-prompts"
+    },
+    {
+        "category": "Healthcare/Medical Imaging",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "RSNA 2023 Abdominal Trauma Detection",
+        "url": "https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection"
+    },
+    {
+        "category": "Mental Health and Sleep Research",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Child Mind Institute - Detect Sleep States",
+        "url": "https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Kaggle - LLM Science Exam",
+        "url": "https://www.kaggle.com/competitions/kaggle-llm-science-exam"
+    },
+    {
+        "category": "Climate Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "LEAP - Atmospheric Physics using AI (ClimSim)",
+        "url": "https://www.kaggle.com/competitions/leap-atmospheric-physics-ai-climsim"
+    },
+    {
+        "category": "Energy",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Enefit - Predict Energy Behavior of Prosumers",
+        "url": "https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers"
+    },
+    {
+        "category": "Cybersecurity",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "yes",
+        "name": "AI Village Capture the Flag @ DEFCON31",
+        "url": "https://www.kaggle.com/competitions/ai-village-capture-the-flag-defcon31"
+    },
+    {
+        "category": "Puzzle Solving",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Santa 2023 - The Polytope Permutation Puzzle",
+        "url": "https://www.kaggle.com/competitions/santa-2023"
+    },
+    {
+        "category": "Sports Analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "March Machine Learning Mania 2024",
+        "url": "https://www.kaggle.com/competitions/march-machine-learning-mania-2024"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "UM - Game-Playing Strength of MCTS Variants",
+        "url": "https://www.kaggle.com/competitions/um-game-playing-strength-of-mcts-variants"
+    },
+    {
+        "category": "Conservation and Biodiversity",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "BirdCLEF 2024",
+        "url": "https://www.kaggle.com/competitions/birdclef-2024"
+    },
+    {
+        "category": "Astronomy",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "NeurIPS - Ariel Data Challenge 2024",
+        "url": "https://www.kaggle.com/competitions/ariel-data-challenge-2024"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to address disparities related to socioeconomic status, race, and geography by developing predictive models that are both precise and fair.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "CIBMTR - Equity in post-HCT Survival Predictions",
+        "url": "https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Image Matching Challenge 2024 - Hexathlon",
+        "url": "https://www.kaggle.com/competitions/image-matching-challenge-2024"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "APTOS 2019 Blindness Detection",
+        "url": "https://www.kaggle.com/competitions/aptos2019-blindness-detection"
+    },
+    {
+        "category": "Retail Sales Forecasting",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "M5 Forecasting - Accuracy",
+        "url": "https://www.kaggle.com/competitions/m5-forecasting-accuracy"
+    },
+    {
+        "category": "Forecasting/Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "M5 Forecasting - Uncertainty",
+        "url": "https://www.kaggle.com/competitions/m5-forecasting-uncertainty"
+    },
+    {
+        "category": "Machine Learning",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition emphasizes developing models that operate fairly across diverse conversations, ensuring no unintended bias in toxicity classification.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Jigsaw Multilingual Toxic Comment Classification",
+        "url": "https://www.kaggle.com/competitions/jigsaw-multilingual-toxic-comment-classification"
+    },
+    {
+        "category": "Pharmaceuticals",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Bristol-Myers Squibb \u2013 Molecular Translation",
+        "url": "https://www.kaggle.com/competitions/bms-molecular-translation"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "RANZCR CLiP - Catheter and Line Position Challenge",
+        "url": "https://www.kaggle.com/competitions/ranzcr-clip-catheter-line-classification"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "VinBigData Chest X-ray Abnormalities Detection",
+        "url": "https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection"
+    },
+    {
+        "category": "Sports Analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "MLB Player Digital Engagement Forecasting",
+        "url": "https://www.kaggle.com/competitions/mlb-player-digital-engagement-forecasting"
+    },
+    {
+        "category": "Retail",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "H&M Personalized Fashion Recommendations",
+        "url": "https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations"
+    },
+    {
+        "category": "medical education",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "NBME - Score Clinical Patient Notes",
+        "url": "https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes"
+    },
+    {
+        "category": "Intellectual Property/Patent Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "USPTO - Explainable AI for Patent Professionals",
+        "url": "https://www.kaggle.com/competitions/uspto-explainable-ai"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "LLM 20 Questions",
+        "url": "https://www.kaggle.com/competitions/llm-20-questions"
+    },
+    {
+        "category": "Pharmaceutical Industry",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "NeurIPS 2024 - Predict New Medicines with BELKA",
+        "url": "https://www.kaggle.com/competitions/leash-BELKA"
+    },
+    {
+        "category": "Education",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to create a dataset across economic and location populations to mitigate potential algorithmic bias.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Learning Agency Lab - Automated Essay Scoring 2.0",
+        "url": "https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "RSNA 2024 Lumbar Spine Degenerative Classification",
+        "url": "https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "yes",
+        "how": "Discusses vulnerabilities and biases of LLMs in subjective evaluations, focusing on model biases and exploits that may impact fair assessments.",
+        "toy": "no",
+        "red_team": "yes",
+        "name": "LLMs - You Can't Please Them All",
+        "url": "https://www.kaggle.com/competitions/llms-you-cant-please-them-all"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "NeurIPS 2024 - Lux AI Season 3",
+        "url": "https://www.kaggle.com/competitions/lux-ai-season-3"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "FIDE & Google Efficient Chess AI Challenge",
+        "url": "https://www.kaggle.com/competitions/fide-google-efficiency-chess-ai-challenge"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "yes",
+        "how": "The description mentions biases such as position bias, verbosity bias, and self-enhancement bias in LLMs, emphasizing the need to address these in the prediction of user preferences.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "WSDM Cup - Multilingual Chatbot Arena",
+        "url": "https://www.kaggle.com/competitions/wsdm-cup-multilingual-chatbot-arena"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Santa 2024 - The Perplexity Permutation Puzzle",
+        "url": "https://www.kaggle.com/competitions/santa-2024"
+    },
+    {
+        "category": "Insurance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Allstate Purchase Prediction Challenge",
+        "url": "https://www.kaggle.com/competitions/allstate-purchase-prediction-challenge"
+    },
+    {
+        "category": "E-commerce",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Coupon Purchase Prediction",
+        "url": "https://www.kaggle.com/competitions/coupon-purchase-prediction"
+    },
+    {
+        "category": "Finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "The Winton Stock Market Challenge",
+        "url": "https://www.kaggle.com/competitions/the-winton-stock-market-challenge"
+    },
+    {
+        "category": "Business Analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Predicting Red Hat Business Value",
+        "url": "https://www.kaggle.com/competitions/predicting-red-hat-business-value"
+    },
+    {
+        "category": "Environmental Monitoring",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Statoil/C-CORE Iceberg Classifier Challenge",
+        "url": "https://www.kaggle.com/competitions/statoil-iceberg-classifier-challenge"
+    },
+    {
+        "category": "Sports Analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Google Cloud & NCAA\u00ae ML Competition 2018-Men's",
+        "url": "https://www.kaggle.com/competitions/mens-machine-learning-competition-2018"
+    },
+    {
+        "category": "Sports Analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google Cloud & NCAA\u00ae ML Competition 2018-Women's",
+        "url": "https://www.kaggle.com/competitions/womens-machine-learning-competition-2018"
+    },
+    {
+        "category": "finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Elo Merchant Category Recommendation",
+        "url": "https://www.kaggle.com/competitions/elo-merchant-category-recommendation"
+    },
+    {
+        "category": "Machine Learning/Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "TensorFlow 2.0 Question Answering",
+        "url": "https://www.kaggle.com/competitions/tensorflow2-question-answering"
+    },
+    {
+        "category": "Horse Racing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Big Data Derby 2022",
+        "url": "https://www.kaggle.com/competitions/big-data-derby-2022"
+    },
+    {
+        "category": "Artificial Intelligence and Machine Learning",
+        "fairness_bias_mentioned": "yes",
+        "how": "The overview mentions the need to mitigate unfair biases in AI technologies and protect user privacy as part of responsible AI development.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "NeurIPS 2023 - Machine Unlearning",
+        "url": "https://www.kaggle.com/competitions/neurips-2023-machine-unlearning"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google \u2013 AI Assistants for Data Tasks with Gemma",
+        "url": "https://www.kaggle.com/competitions/data-assistants-with-gemma"
+    },
+    {
+        "category": "Data Science/Marketing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google Analytics Customer Revenue Prediction",
+        "url": "https://www.kaggle.com/competitions/ga-customer-revenue-prediction"
+    },
+    {
+        "category": "Pharmaceuticals",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Merck Molecular Activity Challenge",
+        "url": "https://www.kaggle.com/competitions/MerckActivity"
+    },
+    {
+        "category": "Public Health",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "West Nile Virus Prediction",
+        "url": "https://www.kaggle.com/competitions/predict-west-nile-virus"
+    },
+    {
+        "category": "Retail/E-commerce",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Home Depot Product Search Relevance",
+        "url": "https://www.kaggle.com/competitions/home-depot-product-search-relevance"
+    },
+    {
+        "category": "Biomedical Image Analysis",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Human Protein Atlas Image Classification",
+        "url": "https://www.kaggle.com/competitions/human-protein-atlas-image-classification"
+    },
+    {
+        "category": "Retail Sales Forecasting",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Rossmann Store Sales",
+        "url": "https://www.kaggle.com/competitions/rossmann-store-sales"
+    },
+    {
+        "category": "E-commerce",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Cdiscount\u2019s Image Classification Challenge",
+        "url": "https://www.kaggle.com/competitions/cdiscount-image-classification-challenge"
+    },
+    {
+        "category": "Online Safety and Community Management",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Toxic Comment Classification Challenge",
+        "url": "https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge"
+    },
+    {
+        "category": "Retail & Consumer Goods",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Acquire Valued Shoppers Challenge",
+        "url": "https://www.kaggle.com/competitions/acquire-valued-shoppers-challenge"
+    },
+    {
+        "category": "Insurance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Driver Telematics Analysis",
+        "url": "https://www.kaggle.com/competitions/axa-driver-telematics-analysis"
+    },
+    {
+        "category": "Hospitality",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Restaurant Revenue Prediction",
+        "url": "https://www.kaggle.com/competitions/restaurant-revenue-prediction"
+    },
+    {
+        "category": "Manufacturing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Machinery Tube Pricing",
+        "url": "https://www.kaggle.com/competitions/machinery-tube-pricing"
+    },
+    {
+        "category": "Insurance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Prudential Life Insurance Assessment",
+        "url": "https://www.kaggle.com/competitions/prudential-life-insurance-assessment"
+    },
+    {
+        "category": "Insurance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "BNP Paribas Cardif Claims Management",
+        "url": "https://www.kaggle.com/competitions/bnp-paribas-cardif-claims-management"
+    },
+    {
+        "category": "Manufacturing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Bosch Production Line Performance",
+        "url": "https://www.kaggle.com/competitions/bosch-production-line-performance"
+    },
+    {
+        "category": "Retail",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Corporaci\u00f3n Favorita Grocery Sales Forecasting",
+        "url": "https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "RSNA Pneumonia Detection Challenge",
+        "url": "https://www.kaggle.com/competitions/rsna-pneumonia-detection-challenge"
+    },
+    {
+        "category": "Chemistry / Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Predicting Molecular Properties",
+        "url": "https://www.kaggle.com/competitions/champs-scalar-coupling"
+    },
+    {
+        "category": "Healthcare/Medical Imaging",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "SIIM-ACR Pneumothorax Segmentation",
+        "url": "https://www.kaggle.com/competitions/siim-acr-pneumothorax-segmentation"
+    },
+    {
+        "category": "Drug Discovery",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Mechanisms of Action (MoA) Prediction",
+        "url": "https://www.kaggle.com/competitions/lish-moa"
+    },
+    {
+        "category": "Autonomous Vehicles",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Lyft Motion Prediction for Autonomous Vehicles",
+        "url": "https://www.kaggle.com/competitions/lyft-motion-prediction-autonomous-vehicles"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "SIIM-ISIC Melanoma Classification",
+        "url": "https://www.kaggle.com/competitions/siim-isic-melanoma-classification"
+    },
+    {
+        "category": "Healthcare/Medical Imaging",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "RSNA STR Pulmonary Embolism Detection",
+        "url": "https://www.kaggle.com/competitions/rsna-str-pulmonary-embolism-detection"
+    },
+    {
+        "category": "E-commerce",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Shopee - Price Match Guarantee",
+        "url": "https://www.kaggle.com/competitions/shopee-product-matching"
+    },
+    {
+        "category": "Healthcare/Medical Imaging",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "RSNA-MICCAI Brain Tumor Radiogenomic Classification",
+        "url": "https://www.kaggle.com/competitions/rsna-miccai-brain-tumor-radiogenomic-classification"
+    },
+    {
+        "category": "Medical Imaging",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "RSNA 2022 Cervical Spine Fracture Detection",
+        "url": "https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection"
+    },
+    {
+        "category": "e-commerce recommender systems",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "OTTO \u2013 Multi-Objective Recommender System",
+        "url": "https://www.kaggle.com/competitions/otto-recommender-system"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google AI Open Images - Object Detection Track",
+        "url": "https://www.kaggle.com/competitions/google-ai-open-images-object-detection-track"
+    },
+    {
+        "category": "Transportation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "New York City Taxi Trip Duration",
+        "url": "https://www.kaggle.com/competitions/nyc-taxi-trip-duration"
+    },
+    {
+        "category": "Data Science and Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "2019 Kaggle Machine Learning & Data Science Survey",
+        "url": "https://www.kaggle.com/competitions/kaggle-survey-2019"
+    },
+    {
+        "category": "Data Science and Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "2020 Kaggle Machine Learning & Data Science Survey",
+        "url": "https://www.kaggle.com/competitions/kaggle-survey-2020"
+    },
+    {
+        "category": "Data Science and Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "2021 Kaggle Machine Learning & Data Science Survey",
+        "url": "https://www.kaggle.com/competitions/kaggle-survey-2021"
+    },
+    {
+        "category": "Data Science and Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "2022 Kaggle Machine Learning & Data Science Survey",
+        "url": "https://www.kaggle.com/competitions/kaggle-survey-2022"
+    },
+    {
+        "category": "Marine Biology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Humpback Whale Identification",
+        "url": "https://www.kaggle.com/competitions/humpback-whale-identification"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google QUEST Q&A Labeling",
+        "url": "https://www.kaggle.com/competitions/google-quest-challenge"
+    },
+    {
+        "category": "Video Content Analysis",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "The 2nd YouTube-8M Video Understanding Challenge",
+        "url": "https://www.kaggle.com/competitions/youtube8m-2018"
+    },
+    {
+        "category": "Energy Efficiency",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "ASHRAE - Great Energy Predictor III",
+        "url": "https://www.kaggle.com/competitions/ashrae-energy-prediction"
+    },
+    {
+        "category": "AI and Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Quick, Draw! Doodle Recognition Challenge",
+        "url": "https://www.kaggle.com/competitions/quickdraw-doodle-recognition"
+    },
+    {
+        "category": "Astronomy",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "PLAsTiCC Astronomical Classification",
+        "url": "https://www.kaggle.com/competitions/PLAsTiCC-2018"
+    },
+    {
+        "category": "Energy and Utilities",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "VSB Power Line Fault Detection",
+        "url": "https://www.kaggle.com/competitions/vsb-power-line-fault-detection"
+    },
+    {
+        "category": "Animal Welfare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "PetFinder.my Adoption Prediction",
+        "url": "https://www.kaggle.com/competitions/petfinder-adoption-prediction"
+    },
+    {
+        "category": "Optimization, Routing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Traveling Santa 2018 - Prime Paths",
+        "url": "https://www.kaggle.com/competitions/traveling-santa-2018-prime-paths"
+    },
+    {
+        "category": "Technology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Quora Insincere Questions Classification",
+        "url": "https://www.kaggle.com/competitions/quora-insincere-questions-classification"
+    },
+    {
+        "category": "Data Science and Sports Analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google Cloud & NCAA\u00ae ML Competition 2019-Men's",
+        "url": "https://www.kaggle.com/competitions/mens-machine-learning-competition-2019"
+    },
+    {
+        "category": "Sports Analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google Cloud & NCAA\u00ae ML Competition 2019-Women's",
+        "url": "https://www.kaggle.com/competitions/womens-machine-learning-competition-2019"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "RSNA Intracranial Hemorrhage Detection",
+        "url": "https://www.kaggle.com/competitions/rsna-intracranial-hemorrhage-detection"
+    },
+    {
+        "category": "Autonomous Vehicles",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Lyft 3D Object Detection for Autonomous Vehicles",
+        "url": "https://www.kaggle.com/competitions/3d-object-detection-for-autonomous-vehicles"
+    },
+    {
+        "category": "Scheduling",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to assign families to tours in a fair manner due to high demand and limited availability, ensuring equitable treatment through compensatory perks for unmet preferences.",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Santa's Workshop Tour 2019",
+        "url": "https://www.kaggle.com/competitions/santa-workshop-tour-2019"
+    },
+    {
+        "category": "Content Moderation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "The Hunt for Prohibited Content",
+        "url": "https://www.kaggle.com/competitions/avito-prohibited-content"
+    },
+    {
+        "category": "Insurance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Liberty Mutual Group - Fire Peril Loss Cost",
+        "url": "https://www.kaggle.com/competitions/liberty-mutual-fire-peril"
+    },
+    {
+        "category": "Insurance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Liberty Mutual Group: Property Inspection Prediction",
+        "url": "https://www.kaggle.com/competitions/liberty-mutual-group-property-inspection-prediction"
+    },
+    {
+        "category": "Travel & Hospitality",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Expedia Hotel Recommendations",
+        "url": "https://www.kaggle.com/competitions/expedia-hotel-recommendations"
+    },
+    {
+        "category": "Supply Chain Management",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Grupo Bimbo Inventory Demand",
+        "url": "https://www.kaggle.com/competitions/grupo-bimbo-inventory-demand"
+    },
+    {
+        "category": "Data Science Competition",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "TalkingData Mobile User Demographics",
+        "url": "https://www.kaggle.com/competitions/talkingdata-mobile-user-demographics"
+    },
+    {
+        "category": "Advertising and Content Recommendation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Outbrain Click Prediction",
+        "url": "https://www.kaggle.com/competitions/outbrain-click-prediction"
+    },
+    {
+        "category": "Real Estate",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Sberbank Russian Housing Market",
+        "url": "https://www.kaggle.com/competitions/sberbank-russian-housing-market"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Instacart Market Basket Analysis",
+        "url": "https://www.kaggle.com/competitions/instacart-market-basket-analysis"
+    },
+    {
+        "category": "Autonomous Driving",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Peking University/Baidu - Autonomous Driving",
+        "url": "https://www.kaggle.com/competitions/pku-autonomous-driving"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Prostate cANcer graDe Assessment (PANDA) Challenge",
+        "url": "https://www.kaggle.com/competitions/prostate-cancer-grade-assessment"
+    },
+    {
+        "category": "Biotechnology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Human Protein Atlas - Single Cell Classification",
+        "url": "https://www.kaggle.com/competitions/hpa-single-cell-image-classification"
+    },
+    {
+        "category": "Entertainment",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Santa 2021 - The Merry Movie Montage",
+        "url": "https://www.kaggle.com/competitions/santa-2021"
+    },
+    {
+        "category": "Intellectual Property/Patent Analysis",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "U.S. Patent Phrase to Phrase Matching",
+        "url": "https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching"
+    },
+    {
+        "category": "Sports Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "March Machine Learning Mania 2022 - Men\u2019s",
+        "url": "https://www.kaggle.com/competitions/mens-march-mania-2022"
+    },
+    {
+        "category": "Sports Betting and Prediction",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "March Machine Learning Mania 2022 - Women's",
+        "url": "https://www.kaggle.com/competitions/womens-march-mania-2022"
+    },
+    {
+        "category": "Location Data Matching",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Foursquare - Location Matching",
+        "url": "https://www.kaggle.com/competitions/foursquare-location-matching"
+    },
+    {
+        "category": "Biotechnology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Novozymes Enzyme Stability Prediction",
+        "url": "https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction"
+    },
+    {
+        "category": "Sports Analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "DFL - Bundesliga Data Shootout",
+        "url": "https://www.kaggle.com/competitions/dfl-bundesliga-data-shootout"
+    },
+    {
+        "category": "Biotechnology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Open Problems - Multimodal Single-Cell Integration",
+        "url": "https://www.kaggle.com/competitions/open-problems-multimodal"
+    },
+    {
+        "category": "Technology and Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "GigaOM WordPress Challenge: Splunk Innovation Prospect",
+        "url": "https://www.kaggle.com/competitions/predict-wordpress-likes"
+    },
+    {
+        "category": "Energy Management",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Belkin Energy Disaggregation Competition",
+        "url": "https://www.kaggle.com/competitions/belkin-energy-disaggregation-competition"
+    },
+    {
+        "category": "Demographics and Census",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "U.S. Census Return Rate Challenge",
+        "url": "https://www.kaggle.com/competitions/us-census-challenge"
+    },
+    {
+        "category": "Travel and Hospitality",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Personalize Expedia Hotel Searches - ICDM 2013",
+        "url": "https://www.kaggle.com/competitions/expedia-personalized-sort"
+    },
+    {
+        "category": "Wildlife Conservation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "NOAA Fisheries Steller Sea Lion Population Count",
+        "url": "https://www.kaggle.com/competitions/noaa-fisheries-steller-sea-lion-population-count"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Quora Question Pairs",
+        "url": "https://www.kaggle.com/competitions/quora-question-pairs"
+    },
+    {
+        "category": "Automotive",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Mercedes-Benz Greener Manufacturing",
+        "url": "https://www.kaggle.com/competitions/mercedes-benz-greener-manufacturing"
+    },
+    {
+        "category": "Automotive",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Carvana Image Masking Challenge",
+        "url": "https://www.kaggle.com/competitions/carvana-image-masking-challenge"
+    },
+    {
+        "category": "Insurance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Porto Seguro\u2019s Safe Driver Prediction",
+        "url": "https://www.kaggle.com/competitions/porto-seguro-safe-driver-prediction"
+    },
+    {
+        "category": "Restaurant Visitor Prediction",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Recruit Restaurant Visitor Forecasting",
+        "url": "https://www.kaggle.com/competitions/recruit-restaurant-visitor-forecasting"
+    },
+    {
+        "category": "Voice Recognition",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "TensorFlow Speech Recognition Challenge",
+        "url": "https://www.kaggle.com/competitions/tensorflow-speech-recognition-challenge"
+    },
+    {
+        "category": "High Energy Physics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "TrackML Particle Tracking Challenge",
+        "url": "https://www.kaggle.com/competitions/trackml-particle-identification"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Santa Gift Matching Challenge",
+        "url": "https://www.kaggle.com/competitions/santa-gift-matching"
+    },
+    {
+        "category": "Digital Forensics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "IEEE's Signal Processing Society - Camera Model Identification",
+        "url": "https://www.kaggle.com/competitions/sp-society-camera-model-identification"
+    },
+    {
+        "category": "Ad Fraud Detection",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "TalkingData AdTracking Fraud Detection Challenge",
+        "url": "https://www.kaggle.com/competitions/talkingdata-adtracking-fraud-detection"
+    },
+    {
+        "category": "Online Marketplace",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Avito Demand Prediction Challenge",
+        "url": "https://www.kaggle.com/competitions/avito-demand-prediction"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google Landmark Recognition 2020",
+        "url": "https://www.kaggle.com/competitions/landmark-recognition-2020"
+    },
+    {
+        "category": "computer vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google Landmark Retrieval 2020",
+        "url": "https://www.kaggle.com/competitions/landmark-retrieval-2020"
+    },
+    {
+        "category": "Conservation and Environment",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Cornell Birdcall Identification",
+        "url": "https://www.kaggle.com/competitions/birdsong-recognition"
+    },
+    {
+        "category": "Healthcare/Biotechnology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction",
+        "url": "https://www.kaggle.com/competitions/stanford-covid-vaccine"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "American Epilepsy Society Seizure Prediction Challenge",
+        "url": "https://www.kaggle.com/competitions/seizure-prediction"
+    },
+    {
+        "category": "Time Series Forecasting",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Web Traffic Time Series Forecasting",
+        "url": "https://www.kaggle.com/competitions/web-traffic-time-series-forecasting"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Text Normalization Challenge - English Language",
+        "url": "https://www.kaggle.com/competitions/text-normalization-challenge-english-language"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Text Normalization Challenge - Russian Language",
+        "url": "https://www.kaggle.com/competitions/text-normalization-challenge-russian-language"
+    },
+    {
+        "category": "Image Recognition/Machine Learning",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to create models that are robust to dataset blind spots and perform well across geographic distributions, highlighting fairness in representation.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Inclusive Images Challenge",
+        "url": "https://www.kaggle.com/competitions/inclusive-images-challenge"
+    },
+    {
+        "category": "Cybersecurity",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Microsoft Malware Prediction",
+        "url": "https://www.kaggle.com/competitions/microsoft-malware-prediction"
+    },
+    {
+        "category": "Image Recognition",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google Landmark Recognition 2019",
+        "url": "https://www.kaggle.com/competitions/landmark-recognition-2019"
+    },
+    {
+        "category": "computer vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google Landmark Retrieval 2019",
+        "url": "https://www.kaggle.com/competitions/landmark-retrieval-2019"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "The 3rd YouTube-8M Video Understanding Challenge",
+        "url": "https://www.kaggle.com/competitions/youtube8m-2019"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to address gender bias in pronoun resolution by creating gender-balanced models and datasets, explicitly mentioning gender fairness as a focus.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Gendered Pronoun Resolution",
+        "url": "https://www.kaggle.com/competitions/gendered-pronoun-resolution"
+    },
+    {
+        "category": "Neuroscience",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition mentions site effects as a form of bias that models should learn to generalize beyond, implying the need to avoid bias related to the origins of data from different scanners.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "TReNDS Neuroimaging",
+        "url": "https://www.kaggle.com/competitions/trends-assessment-prediction"
+    },
+    {
+        "category": "Biomedical Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "University of Liverpool - Ion Switching",
+        "url": "https://www.kaggle.com/competitions/liverpool-ion-switching"
+    },
+    {
+        "category": "Information Security and Forensics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "ALASKA2 Image Steganalysis",
+        "url": "https://www.kaggle.com/competitions/alaska2-image-steganalysis"
+    },
+    {
+        "category": "Marine Conservation and Research",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Happywhale - Whale and Dolphin Identification",
+        "url": "https://www.kaggle.com/competitions/happy-whale-and-dolphin"
+    },
+    {
+        "category": "Animal Welfare / Photography",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "PetFinder.my - Pawpularity Contest",
+        "url": "https://www.kaggle.com/competitions/petfinder-pawpularity-score"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "UW-Madison GI Tract Image Segmentation",
+        "url": "https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation"
+    },
+    {
+        "category": "Scientific Research",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "G2Net Detecting Continuous Gravitational Waves",
+        "url": "https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Open Images 2019 - Object Detection",
+        "url": "https://www.kaggle.com/competitions/open-images-2019-object-detection"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Open Images 2019 - Visual Relationship",
+        "url": "https://www.kaggle.com/competitions/open-images-2019-visual-relationship"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Open Images 2019 - Instance Segmentation",
+        "url": "https://www.kaggle.com/competitions/open-images-2019-instance-segmentation"
+    },
+    {
+        "category": "Sports Analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "March Machine Learning Mania 2016",
+        "url": "https://www.kaggle.com/competitions/march-machine-learning-mania-2016"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Spooky Author Identification",
+        "url": "https://www.kaggle.com/competitions/spooky-author-identification"
+    },
+    {
+        "category": "Environmental Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "DS4G - Environmental Insights Explorer",
+        "url": "https://www.kaggle.com/competitions/ds4g-environmental-insights-explorer"
+    },
+    {
+        "category": "Water Management",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Acea Smart Water Analytics",
+        "url": "https://www.kaggle.com/competitions/acea-water-prediction"
+    },
+    {
+        "category": "Cybersecurity",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "yes",
+        "name": "AI Village Capture the Flag @ DEFCON",
+        "url": "https://www.kaggle.com/competitions/ai-village-ctf"
+    },
+    {
+        "category": "Sales Forecasting",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Online Product Sales",
+        "url": "https://www.kaggle.com/competitions/online-sales"
+    },
+    {
+        "category": "Biotechnology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Predicting a Biological Response",
+        "url": "https://www.kaggle.com/competitions/bioresponse"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Predict Closed Questions on Stack Overflow",
+        "url": "https://www.kaggle.com/competitions/predict-closed-questions-on-stack-overflow"
+    },
+    {
+        "category": "Job Recommendation System",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Job Recommendation Challenge",
+        "url": "https://www.kaggle.com/competitions/job-recommendation"
+    },
+    {
+        "category": "Astrophysics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Observing Dark Worlds",
+        "url": "https://www.kaggle.com/competitions/DarkWorlds"
+    },
+    {
+        "category": "unknown",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "unknown",
+        "red_team": "unknown",
+        "name": "Competition name not found",
+        "url": "https://www.kaggle.com/competitions/helping-santas-helpers"
+    },
+    {
+        "category": "eCommerce and Search Relevance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Crowdflower Search Results Relevance",
+        "url": "https://www.kaggle.com/competitions/crowdflower-search-relevance"
+    },
+    {
+        "category": "Online Advertising",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Avito Context Ad Clicks",
+        "url": "https://www.kaggle.com/competitions/avito-context-ad-clicks"
+    },
+    {
+        "category": "Insurance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Homesite Quote Conversion",
+        "url": "https://www.kaggle.com/competitions/homesite-quote-conversion"
+    },
+    {
+        "category": "Logistics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Santa's Stolen Sleigh",
+        "url": "https://www.kaggle.com/competitions/santas-stolen-sleigh"
+    },
+    {
+        "category": "Online Marketplaces",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Avito Duplicate Ads Detection",
+        "url": "https://www.kaggle.com/competitions/avito-duplicate-ads-detection"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Melbourne University AES/MathWorks/NIH Seizure Prediction",
+        "url": "https://www.kaggle.com/competitions/melbourne-university-seizure-prediction"
+    },
+    {
+        "category": "Fraud Detection",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "IEEE-CIS Fraud Detection",
+        "url": "https://www.kaggle.com/competitions/ieee-fraud-detection"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Abstraction and Reasoning Challenge",
+        "url": "https://www.kaggle.com/competitions/abstraction-and-reasoning-challenge"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google AI Open Images - Visual Relationship Track",
+        "url": "https://www.kaggle.com/competitions/google-ai-open-images-visual-relationship-track"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Predict Closed Questions on Stack Overflow",
+        "url": "https://www.kaggle.com/competitions/pycon-2015-tutorial-predict-closed-questions-on-stack-overflow"
+    },
+    {
+        "category": "Education Technology",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to uncover trends to address educational inequities exacerbated by COVID-19, focusing on demographic factors and broadband access.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "LearnPlatform COVID-19 Impact on Digital Learning",
+        "url": "https://www.kaggle.com/competitions/learnplatform-covid19-impact-on-digital-learning"
+    },
+    {
+        "category": "Finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "The Big Data Combine Engineered by BattleFin",
+        "url": "https://www.kaggle.com/competitions/battlefin-s-big-data-combine-forecasting-challenge"
+    },
+    {
+        "category": "Agriculture",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Cassava Leaf Disease Classification",
+        "url": "https://www.kaggle.com/competitions/cassava-leaf-disease-classification"
+    },
+    {
+        "category": "Finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Benchmark Bond Trade Price Challenge",
+        "url": "https://www.kaggle.com/competitions/benchmark-bond-trade-price-challenge"
+    },
+    {
+        "category": "Astronomy",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Galaxy Zoo - The Galaxy Challenge",
+        "url": "https://www.kaggle.com/competitions/galaxy-zoo-the-galaxy-challenge"
+    },
+    {
+        "category": "Digital Advertising",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Display Advertising Challenge",
+        "url": "https://www.kaggle.com/competitions/criteo-display-ad-challenge"
+    },
+    {
+        "category": "Cybersecurity",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Microsoft Malware Classification Challenge (BIG 2015)",
+        "url": "https://www.kaggle.com/competitions/malware-classification"
+    },
+    {
+        "category": "online advertising",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Click-Through Rate Prediction",
+        "url": "https://www.kaggle.com/competitions/avazu-ctr-prediction"
+    },
+    {
+        "category": "Physics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Flavours of Physics: Finding \u03c4 \u2192 \u03bc\u03bc\u03bc",
+        "url": "https://www.kaggle.com/competitions/flavours-of-physics"
+    },
+    {
+        "category": "Sentiment Analysis",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Tweet Sentiment Extraction",
+        "url": "https://www.kaggle.com/competitions/tweet-sentiment-extraction"
+    },
+    {
+        "category": "Agriculture",
+        "fairness_bias_mentioned": "yes",
+        "how": "The description mentions a bias towards the training region, indicating the need for generalized solutions to avoid bias due to varying genotypes, environments, and conditions worldwide.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Global Wheat Detection",
+        "url": "https://www.kaggle.com/competitions/global-wheat-detection"
+    },
+    {
+        "category": "Environmental Conservation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Rainforest Connection Species Audio Detection",
+        "url": "https://www.kaggle.com/competitions/rfcx-species-audio-detection"
+    },
+    {
+        "category": "Astronomy/Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "G2Net Gravitational Wave Detection",
+        "url": "https://www.kaggle.com/competitions/g2net-gravitational-wave-detection"
+    },
+    {
+        "category": "Astronomy and Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "SETI Breakthrough Listen - E.T. Signal Search",
+        "url": "https://www.kaggle.com/competitions/seti-breakthrough-listen"
+    },
+    {
+        "category": "Gaming/AI",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Kore 2022",
+        "url": "https://www.kaggle.com/competitions/kore-2022"
+    },
+    {
+        "category": "Sports Analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "March Machine Learning Mania",
+        "url": "https://www.kaggle.com/competitions/march-machine-learning-mania-2014"
+    },
+    {
+        "category": "Sports Analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "March Machine Learning Mania 2015",
+        "url": "https://www.kaggle.com/competitions/march-machine-learning-mania-2015"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Personalized Medicine: Redefining Cancer Treatment",
+        "url": "https://www.kaggle.com/competitions/msk-redefining-cancer-treatment"
+    },
+    {
+        "category": "Education and Nonprofit",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Data Science for Good: CareerVillage.org",
+        "url": "https://www.kaggle.com/competitions/data-science-for-good-careervillage"
+    },
+    {
+        "category": "Machine Learning, Historical Text Recognition",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Kuzushiji Recognition",
+        "url": "https://www.kaggle.com/competitions/kuzushiji-recognition"
+    },
+    {
+        "category": "Human Resources",
+        "fairness_bias_mentioned": "yes",
+        "how": "Aims to identify biased language in job bulletins to enhance applicant diversity and quality.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Data Science for Good: City of Los Angeles",
+        "url": "https://www.kaggle.com/competitions/data-science-for-good-city-of-los-angeles"
+    },
+    {
+        "category": "Machine Learning/Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Higgs Boson Machine Learning Challenge",
+        "url": "https://www.kaggle.com/competitions/higgs-boson"
+    },
+    {
+        "category": "Healthcare/Biotechnology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Recursion Cellular Image Classification",
+        "url": "https://www.kaggle.com/competitions/recursion-cellular-image-classification"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Practice Fusion Analyze This! 2012 - Prediction Challenge",
+        "url": "https://www.kaggle.com/competitions/pf2012"
+    },
+    {
+        "category": "Transportation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "RTA Freeway Travel Time Prediction",
+        "url": "https://www.kaggle.com/competitions/RTA"
+    },
+    {
+        "category": "Data Science/Chess",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Deloitte/FIDE Chess Rating Challenge",
+        "url": "https://www.kaggle.com/competitions/ChessRatings2"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Wikipedia's Participation Challenge",
+        "url": "https://www.kaggle.com/competitions/wikichallenge"
+    },
+    {
+        "category": "Insurance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Allstate Claim Prediction Challenge",
+        "url": "https://www.kaggle.com/competitions/ClaimPredictionChallenge"
+    },
+    {
+        "category": "Retail",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "dunnhumby's Shopper Challenge",
+        "url": "https://www.kaggle.com/competitions/dunnhumbychallenge"
+    },
+    {
+        "category": "Automotive",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Don't Get Kicked!",
+        "url": "https://www.kaggle.com/competitions/DontGetKicked"
+    },
+    {
+        "category": "Finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Algorithmic Trading Challenge",
+        "url": "https://www.kaggle.com/competitions/AlgorithmicTradingChallenge"
+    },
+    {
+        "category": "Gesture Recognition",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "CHALEARN Gesture Challenge",
+        "url": "https://www.kaggle.com/competitions/GestureChallenge"
+    },
+    {
+        "category": "Non-profit fundraising",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Raising Money to Fund an Organizational Mission",
+        "url": "https://www.kaggle.com/competitions/Raising-Money-to-Fund-an-Organizational-Mission"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Practice Fusion Analyze This! 2012 - Open Challenge",
+        "url": "https://www.kaggle.com/competitions/pf2012-at"
+    },
+    {
+        "category": "Heavy Equipment Auction Pricing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Blue Book for Bulldozers",
+        "url": "https://www.kaggle.com/competitions/bluebook-for-bulldozers"
+    },
+    {
+        "category": "unknown",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Getting Started",
+        "url": "https://www.kaggle.com/competitions/getting-started"
+    },
+    {
+        "category": "Marine Biology/Conservation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "name": "The Marinexplore and Cornell University Whale Detection Challenge",
+        "url": "https://www.kaggle.com/competitions/whale-detection-challenge"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "name": "Packing Santa's Sleigh",
+        "url": "https://www.kaggle.com/competitions/packing-santas-sleigh"
+    }
+]

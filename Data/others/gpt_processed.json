@@ -1,0 +1,2538 @@
+[
+    {
+        "category": "Energy Efficiency and Building Management",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/brick-by-brick-2024"
+    },
+    {
+        "category": "AI and Machine Learning",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition emphasizes transparency and ethical standards, requiring clear documentation and permissible use of external datasets, ensuring fairness and compliance.",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024"
+    },
+    {
+        "category": "Data Science and AI Research",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/meta-comprehensive-rag-benchmark-kdd-cup-2024"
+    },
+    {
+        "category": "e-commerce and AI",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms"
+    },
+    {
+        "category": "Interior Design/Generative AI",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/generative-interior-design-challenge-2024"
+    },
+    {
+        "category": "Conversational AI",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2023"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/meltingpot-challenge-2023"
+    },
+    {
+        "category": "Energy Management and Sustainability",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2023-citylearn-challenge"
+    },
+    {
+        "category": "Machine Learning/Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2023-the-neural-mmo-challenge"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "yes",
+        "url": "https://www.aicrowd.com/challenges/hackaprompt-2023"
+    },
+    {
+        "category": "E-commerce",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge"
+    },
+    {
+        "category": "Public Health / Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mosquitoalert-challenge-2023"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/scene-understanding-for-autonomous-drone-delivery-suadd-23"
+    },
+    {
+        "category": "Audio Source Separation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/sound-demixing-challenge-2023"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/visual-product-recognition-challenge-2023"
+    },
+    {
+        "category": "Artificial Intelligence / Food Recognition",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/food-recognition-benchmark-2022"
+    },
+    {
+        "category": "Energy and Sustainability",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2022-citylearn-challenge"
+    },
+    {
+        "category": "AI Research & Development",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2022-minerl-basalt-competition"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/data-purchasing-challenge-2022"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge"
+    },
+    {
+        "category": "Gaming and AI",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2022-the-neural-mmo-challenge"
+    },
+    {
+        "category": "E-commerce Search and Retrieval",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/esci-challenge-for-improving-product-search"
+    },
+    {
+        "category": "Behavioral Neuroscience",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/multi-agent-behavior-challenge-2022"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/airborne-object-tracking-challenge"
+    },
+    {
+        "category": "Artificial Intelligence/Computer Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2021-the-nethack-challenge"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/ijcai-2022-the-neural-mmo-challenge"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2021-minerl-diamond-competition"
+    },
+    {
+        "category": "Digital Humanities",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/htrec-2022"
+    },
+    {
+        "category": "Transportation and Logistics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/flatland-3"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/addi-alzheimers-detection-challenge"
+    },
+    {
+        "category": "Facial Recognition Technology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/ai-blitz-xiii"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2021-minerl-basalt-competition"
+    },
+    {
+        "category": "Autonomous Technology/Autonomous Vehicles",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge"
+    },
+    {
+        "category": "Reinforcement Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2020-procgen-competition"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/ai-blitz-xii"
+    },
+    {
+        "category": "Autonomous Vehicles",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2021-aws-deepracer-ai-driving-olympics-challenge"
+    },
+    {
+        "category": "Artificial Intelligence, Multiagent Systems",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/the-neural-mmo-challenge"
+    },
+    {
+        "category": "Geoscience and Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/seismic-facies-identification-challenge"
+    },
+    {
+        "category": "Autonomous Vehicles",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/ai-blitz-xi"
+    },
+    {
+        "category": "Audio Processing/Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/music-demixing-challenge-ismir-2021"
+    },
+    {
+        "category": "Insurance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/insurance-pricing-game"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/ai-blitz-x"
+    },
+    {
+        "category": "Data science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/ai-blitz-x"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/ai-blitz-9"
+    },
+    {
+        "category": "Transportation and Logistics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/flatland"
+    },
+    {
+        "category": "Music Recommendations",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge"
+    },
+    {
+        "category": "Food Recognition",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/food-recognition-challenge"
+    },
+    {
+        "category": "Healthcare Technology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/food-recognition-challenge"
+    },
+    {
+        "category": "Agriculture and Technology",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to address bias towards the training region by building a robust model using diverse datasets from various regions.",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/global-wheat-challenge-2021"
+    },
+    {
+        "category": "Artificial Intelligence / Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2020-minerl-competition"
+    },
+    {
+        "category": "Artificial Intelligence and Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2020-minerl-competition"
+    },
+    {
+        "category": "Behavioral Neuroscience",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/ai-blitz-8"
+    },
+    {
+        "category": "Reinforcement Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/dr-derks-mutant-battlegrounds"
+    },
+    {
+        "category": "Reinforcement Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/dr-derks-mutant-battlegrounds"
+    },
+    {
+        "category": "Data Science / Chemistry",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/learning-to-smell"
+    },
+    {
+        "category": "Healthcare/Global Health",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/snakeclef2021-snake-species-identification-challenge"
+    },
+    {
+        "category": "Aviation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/cyd-campus-aircraft-localization-competition"
+    },
+    {
+        "category": "Chess and Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/ai-blitz-6"
+    },
+    {
+        "category": "Data Science and Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/ai-blitz-6"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/ai-blitz-7"
+    },
+    {
+        "category": "Sports Technology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/hockey-player-localization"
+    },
+    {
+        "category": "Robotics and Autonomous Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/real-2020-robot-open-ended-autonomous-learning"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/ai-blitz-5"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/ai-blitz-5"
+    },
+    {
+        "category": "Data Science/Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/ai-blitz-4"
+    },
+    {
+        "category": "Sports Analytics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/hockey-puck-tracking-challenge"
+    },
+    {
+        "category": "Sports Image Classification",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/hockey-team-classification"
+    },
+    {
+        "category": "Data Science/Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2019-learn-to-move-walk-around"
+    },
+    {
+        "category": "Data Science/ML/AI",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/aicrowd-blitz-2"
+    },
+    {
+        "category": "Machine Learning/Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/aicrowd-blitz-2"
+    },
+    {
+        "category": "Machine Learning",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition highlights the importance and potential societal impact of disentangled representations for fair decision making.",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2019-disentanglement-challenge"
+    },
+    {
+        "category": "Reinforcement Learning",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to increase participation of underrepresented groups by offering Inclusion@NeurIPS scholarships, promoting diversity in participation.",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2019-minerl-competition"
+    },
+    {
+        "category": "Transportation and Logistics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/flatland-challenge"
+    },
+    {
+        "category": "Data Science and Semantic Web",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/columns-property-annotation-cpa-challenge"
+    },
+    {
+        "category": "Data Science / Semantic Web",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/column-type-annotation-cta-challenge"
+    },
+    {
+        "category": "Data Science/AI",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/cell-entity-annotation-cea-challenge"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/tartanair-visual-slam-mono-track"
+    },
+    {
+        "category": "Technology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2020-drawnui"
+    },
+    {
+        "category": "Artificial Intelligence, Autonomous Systems",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/trajnet-a-trajectory-forecasting-challenge"
+    },
+    {
+        "category": "Healthcare/NLP",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mediqa-2019-natural-language-inference-nli"
+    },
+    {
+        "category": "Machine Learning/Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/aicrowd-blitz-may-2020"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/aicrowd-blitz-may-2020"
+    },
+    {
+        "category": "Geospatial/Image Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/epfl-ml-road-segmentation"
+    },
+    {
+        "category": "Recommendation Systems",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/epfl-ml-recommender-system-47572853-80a6-48e6-9873-ca57cfea3d3c"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/epfl-ml-text-classification"
+    },
+    {
+        "category": "Humanitarian Data Analysis",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/amld-2020-transfer-learning-for-international-crisis-response"
+    },
+    {
+        "category": "Data Privacy and Security",
+        "fairness_bias_mentioned": "yes",
+        "how": "The description mentions the use of the AIF 360 Toolkit to detect bias in datasets and encourages ensuring diversity in imputed personal data entities, such as diverse country names.",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/amld-2020-d-avatar-challenge"
+    },
+    {
+        "category": "Robotics and Autonomous Systems",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2019-robot-open-ended-autonomous-learning"
+    },
+    {
+        "category": "Autonomous Driving",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/iccv-2019-learning-to-drive-challenge"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/unity-obstacle-tower-challenge"
+    },
+    {
+        "category": "Medical Question Answering",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mediqa-2019-recognizing-question-entailment-rqe"
+    },
+    {
+        "category": "Medical NLP",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mediqa-2019-question-answering-qa"
+    },
+    {
+        "category": "Semantic Web and Ontology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/iswc-2019-column-type-annotation-cta-challenge"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/iswc-2019-cell-entity-annotation-cea-challenge"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/iswc-2019-columns-property-annotation-cpa-challenge"
+    },
+    {
+        "category": "Recommender Systems",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/spotify-sequential-skip-prediction-challenge-old"
+    },
+    {
+        "category": "Humanitarian Aid/Disaster Response",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mapping-challenge-old"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/epfl-machine-learning-project-1"
+    },
+    {
+        "category": "Agriculture/Technology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/plantvillage-disease-classification-challenge-old"
+    },
+    {
+        "category": "Agriculture and Technology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/plantvillage-disease-classification-challenge"
+    },
+    {
+        "category": "Computer Vision and Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2018-caption-caption-prediction"
+    },
+    {
+        "category": "Medical Imaging and Health Informatics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2018-caption-concept-detection"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2018-tuberculosis-mdr-detection"
+    },
+    {
+        "category": "Medical Imaging",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2019-caption-concept-detection"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2019-tuberculosis-severity-scoring"
+    },
+    {
+        "category": "medical imaging",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2019-tuberculosis-ct-report"
+    },
+    {
+        "category": "Bioacoustics and Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/lifeclef-2018-bird-monophone"
+    },
+    {
+        "category": "Plant Identification/Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/lifeclef-2019-plant"
+    },
+    {
+        "category": "biodiversity informatics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/lifeclef-2019-geo"
+    },
+    {
+        "category": "Labor and Employment",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/labor"
+    },
+    {
+        "category": "Information Retrieval",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2020-lifelog-lmrt"
+    },
+    {
+        "category": "Data Science and Sports Performance Evaluation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2020-lifelog-spll"
+    },
+    {
+        "category": "Coral Reef Monitoring and Image Analysis",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2020-coral-annotation-and-localisation"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/ai-for-good-ai-blitz-3"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/ai-for-good-ai-blitz-3"
+    },
+    {
+        "category": "Image Segmentation for Coral Reef Monitoring",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2020-coral-pixel-wise-parsing"
+    },
+    {
+        "category": "Medical Image Analysis",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2020-vqa-med-vqa"
+    },
+    {
+        "category": "Medical Imaging",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2020-caption-concept-detection"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2020-tuberculosis-ct-report"
+    },
+    {
+        "category": "Medical Imaging/Information Retrieval",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2020-vqa-med-vqg"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/maskd"
+    },
+    {
+        "category": "Medical Imaging",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/miccai-2020-hecktor"
+    },
+    {
+        "category": "Music Streaming",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/spotify-sequential-skip-prediction-challenge"
+    },
+    {
+        "category": "Environmental Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/lifeclef-2020-bird-monophone"
+    },
+    {
+        "category": "biodiversity management and conservation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/lifeclef-2020-geo"
+    },
+    {
+        "category": "Plant Identification",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/lifeclef-2020-plant"
+    },
+    {
+        "category": "Chess/Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/chess"
+    },
+    {
+        "category": "wine/food industry",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/wineq"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/crdio"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/crdio"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/tartanair-visual-slam-stereo-track"
+    },
+    {
+        "category": "Autonomous Vehicles",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/eccv-2020-commands-4-autonomous-vehicles"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/scrbl"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/snake"
+    },
+    {
+        "category": "Data Science and AI",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "yes",
+        "url": "https://www.aicrowd.com/challenges/fnews"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/solve-sudoku"
+    },
+    {
+        "category": "Environmental Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/lndst"
+    },
+    {
+        "category": "Autonomous Driving",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/autodri"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/skely"
+    },
+    {
+        "category": "Data Science and Data Integration",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/semtab-2020"
+    },
+    {
+        "category": "Machine Learning / Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/captcha"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/jigsaw"
+    },
+    {
+        "category": "wine industry",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/da-wine-quality-assignment"
+    },
+    {
+        "category": "Energy Efficiency",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/da-project-light"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/da-project-aloid"
+    },
+    {
+        "category": "Criminal Justice",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/da-project-recid"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/final-project-of-the-data-mining-and-machine-learning-course"
+    },
+    {
+        "category": "data science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/da-project-monsoon-2020"
+    },
+    {
+        "category": "Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/da-project-plant"
+    },
+    {
+        "category": "Healthcare",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mediqa-2021-question-summarization-qs"
+    },
+    {
+        "category": "Medical",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mediqa-2021-multi-answer-summarization-mas"
+    },
+    {
+        "category": "Medical Summarization",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mediqa-2021-radiology-report-summarization-rrs"
+    },
+    {
+        "category": "medical",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mediqa-2021"
+    },
+    {
+        "category": "data science and machine learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2021-aware"
+    },
+    {
+        "category": "Environmental Monitoring and Conservation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2021-coral-pixel-wise-parsing"
+    },
+    {
+        "category": "Environmental Monitoring and Conservation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2021-coral-annotation-and-localisation"
+    },
+    {
+        "category": "Machine Learning, Image Processing, Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2021-drawnui-wireframe"
+    },
+    {
+        "category": "User Interface Design and Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2021-drawnui-screenshot"
+    },
+    {
+        "category": "Medical Imaging",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2021-vqa-med-vqa"
+    },
+    {
+        "category": "Medical Imaging, Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2021-vqa-med-vqg"
+    },
+    {
+        "category": "Sports",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/f1-car-detection"
+    },
+    {
+        "category": "Medical Imaging",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2021-caption-concept-detection"
+    },
+    {
+        "category": "Medical Imaging",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2021-tuberculosis-tbt-classification"
+    },
+    {
+        "category": "Automotive",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/f1-team-classification"
+    },
+    {
+        "category": "botany",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/lifeclef-2021-plant"
+    },
+    {
+        "category": "Finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/time-series-prediction"
+    },
+    {
+        "category": "Finance",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/time-series-prediction"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/txtocr"
+    },
+    {
+        "category": "Optical Character Recognition",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/txtocr"
+    },
+    {
+        "category": "Image Colorization",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imgcol"
+    },
+    {
+        "category": "Image Processing and Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imgcol"
+    },
+    {
+        "category": "AI and Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/objde"
+    },
+    {
+        "category": "Object Detection",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/objde"
+    },
+    {
+        "category": "Artificial Intelligence & Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/sound-sentiment-prediction"
+    },
+    {
+        "category": "Audio Processing, Sentiment Analysis",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/sound-sentiment-prediction"
+    },
+    {
+        "category": "Data Science / Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/chess-transcription"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/chess-configuration"
+    },
+    {
+        "category": "Chess/Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/chess-points"
+    },
+    {
+        "category": "Artificial Intelligence / Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/chess-pieces"
+    },
+    {
+        "category": "Data Science/AI",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/chess-win-prediction"
+    },
+    {
+        "category": "Medical Imaging and Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2021-caption-caption-prediction"
+    },
+    {
+        "category": "Video Understanding and Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/evoked-expressions-from-videos-challenge-cvpr-2021"
+    },
+    {
+        "category": "Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/ml-battleground"
+    },
+    {
+        "category": "text classification",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/tiring-text"
+    },
+    {
+        "category": "Game AI",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/tile-slider"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/hey-barrels"
+    },
+    {
+        "category": "data science/machine learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/rl-vi"
+    },
+    {
+        "category": "Animal Behavior and Neuroscience",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mabe-task-1-classical-classification"
+    },
+    {
+        "category": "Data Science/Neuroscience",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mabe-task-2-annotation-style-transfer"
+    },
+    {
+        "category": "Behavioral Neuroscience",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mabe-task-3-learning-new-behavior"
+    },
+    {
+        "category": "data science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/rliitm-1"
+    },
+    {
+        "category": "Transportation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/rl-taxi"
+    },
+    {
+        "category": "Data Science / Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mars-rotation"
+    },
+    {
+        "category": "Aerospace Engineering",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/stage-prediction"
+    },
+    {
+        "category": "Data Science/Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/rover-classification"
+    },
+    {
+        "category": "Space Technology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/debris-detection"
+    },
+    {
+        "category": "Image Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/image-correction"
+    },
+    {
+        "category": "Medical Imaging and Cancer Research",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/miccai-2021-hecktor"
+    },
+    {
+        "category": "AI and Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/ai-blitz-community-challenge"
+    },
+    {
+        "category": "Automotive",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/f1-speed-recognition"
+    },
+    {
+        "category": "Automotive",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/f1-smoke-elimination"
+    },
+    {
+        "category": "",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/iit-m-rl-assignment-2-taxi"
+    },
+    {
+        "category": "",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/iit-m-rl-assignment-2-gridworld"
+    },
+    {
+        "category": "n/a",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "n/a",
+        "red_team": "n/a",
+        "url": "https://www.aicrowd.com/challenges/iit-m-assignment-2"
+    },
+    {
+        "category": "Automotive",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/f1-car-rotation"
+    },
+    {
+        "category": "Reinforcement Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/iitm-rl-final-project"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/emotion-detection"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/research-paper-classification"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/de-shuffling-text"
+    },
+    {
+        "category": "Machine Learning/Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/nlp-feature-engineering"
+    },
+    {
+        "category": "Speech Recognition",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/sound-prediction"
+    },
+    {
+        "category": "",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/semtab-2021"
+    },
+    {
+        "category": "Semantic Web",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/column-type-annotation-by-dbpedia-cta-dbp"
+    },
+    {
+        "category": "Data Science and Semantic Web",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/cell-entity-annotation-by-wikidata-cea-wd"
+    },
+    {
+        "category": "Data Science / Semantic Web",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/cell-entity-annotation-by-dbpedia-cea-dbp"
+    },
+    {
+        "category": "Data Science/Knowledge Graphs",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/column-type-annotation-by-wikidata-cta-wd"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/findcave"
+    },
+    {
+        "category": "Artificial Intelligence/Game Development",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/makewaterfall"
+    },
+    {
+        "category": "Artificial Intelligence/Video Game",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/createvillageanimalpen"
+    },
+    {
+        "category": "Artificial Intelligence, Video Game Environment",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/buildvillagehouse"
+    },
+    {
+        "category": "Environmental Science / Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/tree-segmentation"
+    },
+    {
+        "category": "Space Technology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/docking-iss"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/starship-detection"
+    },
+    {
+        "category": "Maritime Safety",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/iceberg-detection"
+    },
+    {
+        "category": "Aerial Imaging and Earth Observation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/clouds-removal"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/environment-classification"
+    },
+    {
+        "category": "Transportation and Logistics",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/flatland-amld-2021"
+    },
+    {
+        "category": "Self-driving Cars",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/scene-segmentation"
+    },
+    {
+        "category": "Autonomous Vehicles",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/obstacle-prediction"
+    },
+    {
+        "category": "Technology/Automotive",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/object-detection"
+    },
+    {
+        "category": "Automotive and Transportation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/lidar-car-detection"
+    },
+    {
+        "category": "Data Science / Semantic Web",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/biotable-cell-entity-annotation-by-wikidata-biotable-cea-wd"
+    },
+    {
+        "category": "Data Science/Knowledge Graphs",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/biotable-column-type-annotation-by-wikidata-biotable-cta-wd"
+    },
+    {
+        "category": "Data Science/Knowledge Graphs",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/biotable-column-property-annotation-by-wikidata-biotable-cpa-wd"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/hardtable-cell-entity-annotation-by-wikidata-hardtable-cea-wd"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/hardtable-column-type-annotation-by-wikidata-hardtable-cta-wd"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/hardtable-column-property-annotation-by-wikidata-hardtable-cpa-wd"
+    },
+    {
+        "category": "Transportation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/rl-assignment-2-taxi"
+    },
+    {
+        "category": "Data Science / Optimization",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/rl-assignment-2-youtube"
+    },
+    {
+        "category": "Reinforcement Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/rl-assignment-2-gridworld"
+    },
+    {
+        "category": "unknown",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/iit-m-2021-assignment-2"
+    },
+    {
+        "category": "Reinforcement Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/rl-project-2021"
+    },
+    {
+        "category": "Data Science / Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/programming-language-classification"
+    },
+    {
+        "category": "Medical Imaging",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2022-caption-concept-detection"
+    },
+    {
+        "category": "Medical Imaging and Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2022-caption-caption-prediction"
+    },
+    {
+        "category": "Medical Imaging",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2022-tuberculosis-caverns-detection"
+    },
+    {
+        "category": "Environmental Monitoring",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2022-coral-annotation-and-localisation"
+    },
+    {
+        "category": "Environmental Monitoring",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2022-coral-pixel-wise-parsing"
+    },
+    {
+        "category": "Image Data and Privacy Evaluation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2022-aware"
+    },
+    {
+        "category": "Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/speaker-identification"
+    },
+    {
+        "category": "Machine Translation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/lingua-franca-translation"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/embedding-game"
+    },
+    {
+        "category": "Data Science / Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/nlp-feature-engineering-2"
+    },
+    {
+        "category": "Medical Imaging",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2022-tuberculosis-caverns-report"
+    },
+    {
+        "category": "Biodiversity and Plant Identification",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/lifeclef-2022-23-plant"
+    },
+    {
+        "category": "Multimedia Information Retrieval",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2022-fusion-media-interestingness"
+    },
+    {
+        "category": "Data Science and Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/imageclef-2022-fusion-result-diversification"
+    },
+    {
+        "category": "Data Science/Biotechnology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mabe-2022-fruit-fly-groups"
+    },
+    {
+        "category": "Computational Behavior and Neuroscience",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mabe-2022-mouse-triplets"
+    },
+    {
+        "category": "Image Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/face-de-blurring"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mask-prediction"
+    },
+    {
+        "category": "Facial Recognition Technology",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/face-recognition"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/age-prediction"
+    },
+    {
+        "category": "Data Science/Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/sentiment-classification"
+    },
+    {
+        "category": "Autonomous Navigation and Localization",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/icra2022-iros2023-general-place-recognition-city-scale-ugv-localization"
+    },
+    {
+        "category": "Robotics and Autonomous Systems",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/icra2022-general-place-recognition-visual-terrain-relative-navigation"
+    },
+    {
+        "category": "unknown",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "unknown",
+        "red_team": "unknown",
+        "url": "https://www.aicrowd.com/challenges/de-shuffle-text"
+    },
+    {
+        "category": "n/a",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "n/a",
+        "red_team": "n/a",
+        "url": "https://www.aicrowd.com/challenges/human-age-prediction"
+    },
+    {
+        "category": "n/a",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mask-detection"
+    },
+    {
+        "category": "",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/lip-reading"
+    },
+    {
+        "category": "Reinforcement Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/multi-agent-reinforcement-learning-for-iterative-reasoning"
+    },
+    {
+        "category": "Behavioral Video Analysis",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mabe-2022-ant-beetles-video-data"
+    },
+    {
+        "category": "Animal Behavior Analysis",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mabe-2022-mouse-triplets-video-data"
+    },
+    {
+        "category": "Unspecified",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/fruit-detection"
+    },
+    {
+        "category": "Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/cvpr-2022-clear-challenge"
+    },
+    {
+        "category": "Data Science and Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/classification-building-collapse-detection"
+    },
+    {
+        "category": "computer vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/clear10"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/clear100"
+    },
+    {
+        "category": "",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/building-self-checkout"
+    },
+    {
+        "category": "",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/review-classification"
+    },
+    {
+        "category": "General",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/functional-groups-detection"
+    },
+    {
+        "category": "unknown",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/depth-estimation"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge-rl-task"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge-nlp-task"
+    },
+    {
+        "category": "Audio Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/numberbattle-tournament-test-challenge"
+    },
+    {
+        "category": "Unmanned Aircraft Systems and Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/mono-depth-perception"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/semantic-segmentation"
+    },
+    {
+        "category": "Audio Processing",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/music-demixing-track-mdx-23"
+    },
+    {
+        "category": "Audio Source Separation",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/cinematic-sound-demixing-track-cdx-23"
+    },
+    {
+        "category": "data science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/cs233-h36m-challenge"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/cs233-music-challenge"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/cs233-movies-challenge"
+    },
+    {
+        "category": "E-commerce",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/task-1-next-product-recommendation"
+    },
+    {
+        "category": "data science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/task-2-next-product-recommendation-for-underrepresented-languages"
+    },
+    {
+        "category": "e-commerce",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/task-3-next-product-title-generation"
+    },
+    {
+        "category": "Environmental Science and Engineering",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/predict-measurements-for-nuclear-waste-canister"
+    },
+    {
+        "category": "",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/example-artifact-evaluator"
+    },
+    {
+        "category": "AI Safety",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "yes",
+        "url": "https://www.aicrowd.com/challenges/testing-net"
+    },
+    {
+        "category": "",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/submission-testing"
+    },
+    {
+        "category": "Energy Efficiency and Forecasting",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/forecasting-track-citylearn-challenge"
+    },
+    {
+        "category": "Energy Management and Building Control",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/control-track-citylearn-challenge"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "yes",
+        "how": "Participants must adhere to transparency and ethical standards, documenting methods and ensuring dataset use does not violate terms.",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/task-1-commonsense-dialogue-response-generation"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "yes",
+        "how": "Participants must uphold transparency in data use and ensure compliance with ethical standards concerning dialogue systems and persona data.",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/task-2-commonsense-persona-knowledge-linking"
+    },
+    {
+        "category": "AI and Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/meta-kdd-cup-24-crag-retrieval-summarization"
+    },
+    {
+        "category": "Data Science and AI",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/meta-kdd-cup-24-crag-knowledge-graph-and-web-retrieval"
+    },
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/meta-kdd-cup-24-crag-end-to-end-retrieval-augmented-generation"
+    },
+    {
+        "category": "Online Shopping and E-commerce",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/amazon-kdd-cup-24-understanding-shopping-concepts"
+    },
+    {
+        "category": "E-commerce and Online Shopping",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/amazon-kdd-cup-24-shopping-knowledge-reasoning"
+    },
+    {
+        "category": "Online Shopping and E-commerce Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/amazon-kdd-cup-24-user-behavior-alignment"
+    },
+    {
+        "category": "Data Science/Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/amazon-kdd-cup-24-multi-lingual-abilities"
+    },
+    {
+        "category": "E-commerce/Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/amazon-kdd-cup-24-all-around"
+    },
+    {
+        "category": "Machine Learning/Video and Audio Synchronization",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/temporal-alignment-track"
+    },
+    {
+        "category": "Data Science/AI",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition mentions transparency in the use of additional data from external sources, adherence to ethical standards, and licensing compliance, ensuring fairness.",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/spatial-alignment-track"
+    },
+    {
+        "category": "Building Energy Management",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/task-1-predicting-room-indoor-temperature"
+    },
+    {
+        "category": "Energy Consumption Modeling",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/task-2-predicting-energy-consumption"
+    },
+    {
+        "category": "Machine Learning",
+        "fairness_bias_mentioned": "no",
+        "how": "n/a",
+        "toy": "yes",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/epfl-css-233"
+    }
+]

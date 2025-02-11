@@ -1,0 +1,66 @@
+[
+    {
+        "category": "AI and Machine Learning",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition emphasizes transparency and ethical standards, requiring clear documentation and permissible use of external datasets, ensuring fairness and compliance.",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/sounding-video-generation-svg-challenge-2024"
+    },
+    {
+        "category": "Agriculture and Technology",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to address bias towards the training region by building a robust model using diverse datasets from various regions.",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/global-wheat-challenge-2021"
+    },
+    {
+        "category": "Machine Learning",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition highlights the importance and potential societal impact of disentangled representations for fair decision making.",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2019-disentanglement-challenge"
+    },
+    {
+        "category": "Reinforcement Learning",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition aims to increase participation of underrepresented groups by offering Inclusion@NeurIPS scholarships, promoting diversity in participation.",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/neurips-2019-minerl-competition"
+    },
+    {
+        "category": "Data Privacy and Security",
+        "fairness_bias_mentioned": "yes",
+        "how": "The description mentions the use of the AIF 360 Toolkit to detect bias in datasets and encourages ensuring diversity in imputed personal data entities, such as diverse country names.",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/amld-2020-d-avatar-challenge"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "yes",
+        "how": "Participants must adhere to transparency and ethical standards, documenting methods and ensuring dataset use does not violate terms.",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/task-1-commonsense-dialogue-response-generation"
+    },
+    {
+        "category": "Natural Language Processing",
+        "fairness_bias_mentioned": "yes",
+        "how": "Participants must uphold transparency in data use and ensure compliance with ethical standards concerning dialogue systems and persona data.",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/task-2-commonsense-persona-knowledge-linking"
+    },
+    {
+        "category": "Data Science/AI",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition mentions transparency in the use of additional data from external sources, adherence to ethical standards, and licensing compliance, ensuring fairness.",
+        "toy": "no",
+        "red_team": "no",
+        "url": "https://www.aicrowd.com/challenges/spatial-alignment-track"
+    }
+]

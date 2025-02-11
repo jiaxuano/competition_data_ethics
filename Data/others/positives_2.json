@@ -1,0 +1,38 @@
+[
+    {
+        "category": "Data Science",
+        "fairness_bias_mentioned": "yes",
+        "how": "Bias in the original data due to normalization and quantization issues is addressed in the final data release.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Cause-effect pairs",
+        "url": "https://www.kaggle.com/competitions/cause-effect-pairs"
+    },
+    {
+        "category": "computer vision",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition increases diversity in test images by sampling from many countries to ensure fairer evaluation of global landmark retrieval performance.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google Landmark Retrieval 2021",
+        "url": "https://www.kaggle.com/competitions/landmark-retrieval-2021"
+    },
+    {
+        "category": "Computer Vision",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition introduces more diversity in test images to measure global landmark recognition performance more fairly.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "Google Landmark Recognition 2021",
+        "url": "https://www.kaggle.com/competitions/landmark-recognition-2021"
+    },
+    {
+        "category": "Artificial Intelligence",
+        "fairness_bias_mentioned": "yes",
+        "how": "The competition highlights biases such as position bias, verbosity bias, and self-enhancement bias in LLM responses and encourages solutions that address these biases.",
+        "toy": "no",
+        "red_team": "no",
+        "name": "LLM Classification Finetuning",
+        "url": "https://www.kaggle.com/competitions/llm-classification-finetuning"
+    }
+]
